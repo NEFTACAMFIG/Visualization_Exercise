@@ -1,6 +1,6 @@
 # Visualization_Exercise
 
-This code is regarding to practice useful skills for visialization data and creation of Dashboards with Dash. The code covers the following topics:
+This code is regarding to practice useful skills for visualization data and creation of Dashboards with Dash. The code covers the following topics:
 
 1. Obtain the raw data that will be used and Upload it
 2. Clean the data to be used for the visualizations
