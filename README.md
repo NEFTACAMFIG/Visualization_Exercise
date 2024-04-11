@@ -1,4 +1,10 @@
-# Visualization_Exercise
+# Data Visualization and Dashboard Creation with Dash
+
+## Overview
+
+This repository contains code and resources for practicing useful skills in data visualization and creating interactive dashboards using Dash, a Python web framework. The code covers various topics including obtaining raw data, cleaning the data, choosing and creating appropriate visualizations, and developing an interactive dashboard with Dash.
+
+## Project Objectives
 
 This code is regarding to practice useful skills for visualization data and creation of Dashboards with Dash. The code covers the following topics:
 
